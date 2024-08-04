@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/b6391f01-ad0f-4640-bbee-65f355318d85)
 
 ## Introduction
 
@@ -19,6 +18,9 @@ The core of the editor is a `textarea` HTML element, enhanced to provide a real-
 - Real-time syntax highlighting for various programming languages.
 - Seamless integration with React using `prism-react-renderer`.
 - Customizable and extendable to support additional features as needed.
+  
+
+![image](https://github.com/user-attachments/assets/b6391f01-ad0f-4640-bbee-65f355318d85)
 
 
 
